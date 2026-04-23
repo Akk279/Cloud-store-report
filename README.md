@@ -11,6 +11,16 @@ Outlet-level sales performance
 Customer rating and product preference trends
 Inventory and visibility factors affecting sales
 
+Dataset Features
+- Item_Identifier
+- Item_Weight
+- Item_Visibility
+- Item_Type
+- Outlet_Type
+- Outlet_Size
+- Sales
+- Rating
+
 This dashboard was built to answer those business questions through interactive reporting.
 
 Tools & Technologies
